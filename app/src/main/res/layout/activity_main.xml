@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_marginHorizontal="10dp"
-        android:src="@drawable/android_png"
+        android:src="@drawable/Masterc"
         />
 
 </LinearLayout>
