@@ -16,7 +16,7 @@ class MainActivity2 : AppCompatActivity() {
         webView = findViewById(R.id.webview)
         pb = findViewById(R.id.pb)
         webView.getSettings().setJavaScriptEnabled(true)
-        webView.loadUrl("http://www.google.com")
+        webView.loadUrl("https://www.hotelmasterchef.in/")
         webView.setWebViewClient(myWebViewClient())
     }
     class myWebViewClient : WebViewClient() {
